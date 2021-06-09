@@ -1,4 +1,5 @@
 # Agenda-Curier
+Agenda-Curier este o aplicatie simpla care poate fi folosita pentru stocarea datelor clientilor unei firme de curierat.
 # Instalare
 - Mai intai trebuie instalate librariile [ncurses](https://ftp.gnu.org/pub/gnu/ncurses/) (Mac/Linux) sau [pdcurses] (https://pdcurses.org/)(Windows) si libraria [nlohmann](https://github.com/nlohmann/json).
 - Apoi trebuie instalate fisierele din folderul [src](https://github.com/Albert24GG/agenda-curier/tree/main/src).
