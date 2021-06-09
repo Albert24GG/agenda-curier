@@ -37,7 +37,7 @@ struct clients
 
     void saveData();
 
-}v;
+}c;
 
 void main_menu();
 
