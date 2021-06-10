@@ -1,7 +1,7 @@
 # Agenda-Curier
 Agenda-Curier este o aplicatie simpla care poate fi folosita pentru stocarea datelor clientilor unei firme de curierat.
 # Instalare
-- Mai intai trebuie instalate librariile [ncurses](https://ftp.gnu.org/pub/gnu/ncurses/) (Mac/Linux) sau [pdcurses] (https://pdcurses.org/)(Windows) si libraria [nlohmann](https://github.com/nlohmann/json).
+- Mai intai trebuie instalate librariile [ncurses](https://ftp.gnu.org/pub/gnu/ncurses/) (Mac/Linux) sau [pdcurses](https://pdcurses.org/) (Windows) si libraria [nlohmann](https://github.com/nlohmann/json).
 - Apoi trebuie instalate fisierele din folderul [src](https://github.com/Albert24GG/agenda-curier/tree/main/src).
 # Utilizare
 ```cpp
@@ -14,7 +14,7 @@ int main(){
     startApp();
 }
 ```
-Datele introduse in program vor fi salvate in fisierul ***date.json*** din acelasi folder cu proiectul. Daca acest fisier nu exista, el va fi creat odata cu salvarea datelor.
+Datele introduse in program vor fi salvate in fisierul ***data.json*** din acelasi folder cu proiectul. Daca acest fisier nu exista, el va fi creat odata cu salvarea datelor.
 
 # Interfata
 
