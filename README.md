@@ -18,4 +18,4 @@ Datele introduse in program vor fi salvate in fisierul ***data.json*** din acela
 
 # Interfata
 
-![](https://github.com/Albert24GG/agenda-curier/blob/3e7d99da401dc501ea1b049acaab6e8e02a1799d/menu.png)
+![](https://github.com/Albert24GG/agenda-curier/blob/4589ce3f8d7c3e5ee67c371ebc226c1dcb6281f1/menu.png)
