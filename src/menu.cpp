@@ -7,7 +7,7 @@ void main_menu()
     int menu_item=0, x=3;
     bool running = true;
 
-    mvaddstr(1,2,"Meniul Agendei      (Navigate using arrow keys. Press Enter to proceed. Press ESC to cancel operation.)");
+    mvaddstr(1,2,"Meniul Agendei      (Navigate using arrow keys. Press Enter to proceed.)");
 
     refresh();
 
