@@ -15,23 +15,23 @@ void main_menu()
 
     refresh();
 
-    mvaddstr(3,2,"2) Sterge toate persoanele din agenda");
+    mvaddstr(3,2,"1) Sterge toate persoanele din agenda");
 
     refresh();
 
-    mvaddstr(4,2,"3) Sterge o singura persoana din agenda");
+    mvaddstr(4,2,"2) Sterge o singura persoana din agenda");
 
     refresh();
 
-    mvaddstr(5,2,"4) Adauga o persoana in agenda");
+    mvaddstr(5,2,"3) Adauga o persoana in agenda");
 
     refresh();
 
-    mvaddstr(6,2,"5) Cauta o persoana in agenda");
+    mvaddstr(6,2,"4) Cauta o persoana in agenda");
 
     refresh();
 
-    mvaddstr(7,2,"6) Quit Program & Save Data");
+    mvaddstr(7,2,"5) Quit Program & Save Data");
 
     refresh();
 
